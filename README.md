@@ -18,3 +18,7 @@ Tested with below paths in local :
 Input file : c:\test\downloadlist.txt
 Destination Folder : C:\test\Images
 
+NOTE :
+
+I have executed the python script and got the result as expected. I did the screen record of execution and placed in repository named as "Execution_video"
+
