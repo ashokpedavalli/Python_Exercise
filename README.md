@@ -1,4 +1,4 @@
-# Python_exercise
+# Python_Exercise
 
 Environment used for this Excercise :
 OS : Windows 7
