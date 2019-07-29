@@ -6,7 +6,7 @@ Python Version : v2.7.16
 
 Input :
 
-when execute the script it will ask for user input as "Enter the name of text file : "
+when execute the script (SaveImages.py) it will ask for user input as "Enter the name of text file : "
 Eg : provide input file as : "c:\test\downloadlist.txt" (downloadlist.txt should contains the URL's List of images)
 
 Expected Output :
